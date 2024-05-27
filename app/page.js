@@ -4,8 +4,8 @@ import Footer from "./src/components/footer/footer";
 export default function Home() {
   return (
     <>
-      <Footer />
-      <AboutUs />
+      
+      {/* <AboutUs /> */}
     </>
   );
 }
